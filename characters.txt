@@ -19,3 +19,13 @@ Tom Buchanan
 Background: Wealthy, arrogant, and aggressive.
 Traits: Racist, misogynistic, and condescending.
 Relationship: Daisy's unfaithful husband.
+
+Meyer Wolfsheim
+Background: A gambler involved in organized crime.
+Traits: Shady and secretive.
+Relationship: Business associate of Gatsby
+
+George Wilson
+Background: Myrtle Wilson's husband.
+Traits: Spiritless and devoted.
+Relationship: Owns a garage in the valley of ashes.
